@@ -138,7 +138,7 @@ Analisando o heatmap, é possível concluir que as 3 variáveis que mais se corr
 
 ![5 melhores](https://user-images.githubusercontent.com/106493763/222858272-571d0473-860e-4bd6-99a6-175e868f1d97.png)
 
-Mapa para localização dos imóveis:
+Localização dos imóveis:
 
 ![Mapa 5 melhores](https://user-images.githubusercontent.com/106493763/222858282-9981dda8-1d92-4ae9-ba1b-62b96611c64a.png)
 
@@ -166,7 +166,7 @@ Todos esses fatores mostram que estes imóveis estão abaixo do seu valor justo,
 
 ![5 piores](https://user-images.githubusercontent.com/106493763/222858294-da41294e-3b87-4806-9763-0ed89b68fe71.png)
 
-Mapa para localização dos imóveis:
+Localização dos imóveis:
 
 ![Mapa 5 piores](https://user-images.githubusercontent.com/106493763/222858297-deb66788-fe51-4edf-833c-5a9874d515cf.png)
 
