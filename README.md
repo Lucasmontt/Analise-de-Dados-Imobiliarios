@@ -55,7 +55,7 @@ Para ter certeza de que bons imóveis serão escolhidos, serão aplicados dois c
 
 Para visualização de outliers, são usados o gráficos do tipo boxplot.
 
-![Boxplots](https://user-images.githubusercontent.com/106493763/222857998-c3b25152-adf5-42bc-a6f0-0863ad451f4b.png)
+![Boxplots](https://user-images.githubusercontent.com/106493763/222860966-0f2b295d-1051-4fb1-8c66-3c34295b6ac6.png)
 
 Com esses boxplots, verificamos que existem imóveis registrados com a quantidade de quartos ou banheiros igual a zero.  Esses imóveis serão excluidos do dataframe, antes de dar continuação na detecção e tratamento das outliers.
 
